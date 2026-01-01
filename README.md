@@ -1,57 +1,59 @@
-🎮 Juegos Promocionales — Cocuss Games
-Este repositorio reúne una colección de juegos promocionales desarrollados por Cocuss Games.
-Cada proyecto está diseñado para campañas, activaciones, lanzamientos de productos y experiencias interactivas orientadas a marcas.
+# 🎮 Juegos Promocionales — Cocuss Games
 
-Mi enfoque combina:
+Este repositorio reúne una colección de **juegos promocionales** desarrollados por Cocuss Games.  
+Cada proyecto está diseñado para **campañas**, **activaciones**, **lanzamientos de productos** y experiencias interactivas orientadas a marcas.
 
-Mecánicas simples y atractivas
+---
 
-Identidad visual adaptada a cada marca
+## ✨ Mi enfoque combina:
 
-Experiencias rápidas y memorables
+- Mecánicas simples y atractivas  
+- Identidad visual adaptada a cada marca  
+- Experiencias rápidas y memorables  
+- Prototipado ágil y modular  
 
-Prototipado ágil y modular
+---
 
-Dentro de este repositorio encontrarás:
+## 🕹️ Proyectos incluidos
 
-🕹️ Proyectos incluidos
-Cada carpeta contiene un juego independiente:
+Cada carpeta contiene un juego independiente con:
 
-Código o proyecto fuente
+- Código o proyecto fuente  
+- Assets propios del juego  
+- Documentación  
+- Capturas  
+- Enlace a demo jugable (si aplica)  
 
-Assets propios del juego
+---
 
-Documentación
+## 🧩 Objetivo de los juegos promocionales
 
-Capturas
-
-Enlace a demo jugable (si aplica)
-
-🧩 Objetivo de los juegos promocionales
 Los juegos promocionales permiten:
 
-Aumentar el engagement en campañas
+- Aumentar el engagement en campañas  
+- Generar interacción con productos o servicios  
+- Reforzar la identidad de marca  
+- Crear experiencias memorables en eventos o redes sociales  
 
-Generar interacción con productos o servicios
+---
 
-Reforzar la identidad de marca
+## 🛠️ Tecnologías utilizadas
 
-Crear experiencias memorables en eventos o redes sociales
-
-🛠️ Tecnologías utilizadas
 Dependiendo del proyecto:
 
-GDevelop
+- GDevelop  
+- Unity  
+- HTML5  
+- Sistemas modulares propios de Cocuss Games  
 
-Unity
+---
 
-HTML5
+## 📬 Contacto
 
-Sistemas modulares propios de Cocuss Games
-
-📬 Contacto
 Si deseas un juego promocional para tu marca:
 
-✉️ marco.alarcon0712@gmail.com 
-🌐 [Instagram  ](https://www.instagram.com/cocuss_games/)
-🎮 itch.io/cocuss
+**✉️** marco.alarcon0712@gmail.com  
+**🌐 Instagram:** [@cocuss_games](https://www.instagram.com/cocuss_games/)  
+**🎮 itch.io:** https://itch.io/cocuss
+
+---
