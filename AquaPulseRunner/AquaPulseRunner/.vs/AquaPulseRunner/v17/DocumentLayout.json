@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cocuss\\Documents\\marca personal\\juegos\\Juegos_Promocionales\\AquaPulseRunner\\AquaPulseRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A97331D-2448-2070-C05B-34665794488D}|Unity.PlasticSCM.Editor.csproj|c:\\users\\cocuss\\documents\\marca personal\\juegos\\juegos_promocionales\\aquapulserunner\\aquapulserunner\\library\\packagecache\\com.unity.collab-proxy@1ec4e416a4af\\editor\\settings\\openuvcsprojectsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A97331D-2448-2070-C05B-34665794488D}|Unity.PlasticSCM.Editor.csproj|solutionrelative:library\\packagecache\\com.unity.collab-proxy@1ec4e416a4af\\editor\\settings\\openuvcsprojectsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenUVCSProjectSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Cocuss\\Documents\\marca personal\\juegos\\Juegos_Promocionales\\AquaPulseRunner\\AquaPulseRunner\\Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af\\Editor\\Settings\\OpenUVCSProjectSettings.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af\\Editor\\Settings\\OpenUVCSProjectSettings.cs",
+              "ToolTip": "C:\\Users\\Cocuss\\Documents\\marca personal\\juegos\\Juegos_Promocionales\\AquaPulseRunner\\AquaPulseRunner\\Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af\\Editor\\Settings\\OpenUVCSProjectSettings.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af\\Editor\\Settings\\OpenUVCSProjectSettings.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwD0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:46:39.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
